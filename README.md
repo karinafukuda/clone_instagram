@@ -14,7 +14,7 @@
 
 ---
 
-<h3>Segue link do deploy:</h3>
+<h4>Segue link do deploy:</h4>
 
 <a><strong>https://karinafukuda.github.io/clone_instagram/</strong></a>
 
